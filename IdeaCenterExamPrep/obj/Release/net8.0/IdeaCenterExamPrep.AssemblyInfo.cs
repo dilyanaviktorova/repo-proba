@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IdeaCenterExamPrep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5c2aaf1b4f05f12c698be075cc4f38286bc23f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("IdeaCenterExamPrep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IdeaCenterExamPrep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
